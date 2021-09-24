@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>prudhvi369.war</finalName>
+    <finalName>prudhvi</finalName>
   </build>
 </project>
